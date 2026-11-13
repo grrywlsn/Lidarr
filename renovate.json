@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "assignees": [
+    "grrywlsn"
+  ],
+  "gitAuthor": "grrywlsn <6753180+grrywlsn@users.noreply.github.com>"
+}
